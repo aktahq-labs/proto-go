@@ -1,0 +1,3 @@
+[tasks.tidy]
+run = "go mod tidy"
+sources = ["**/*.go", "go.mod"]
